@@ -1,0 +1,10 @@
+com\practiceseleniumproject\app\LetsTalkTeaPage.class
+com\practiceseleniumproject\tools\Browser.class
+com\practiceseleniumproject\app\AbstractPage.class
+com\practiceseleniumproject\app\OurPassionPage.class
+com\practiceseleniumproject\app\MenuPage.class
+com\practiceseleniumproject\tools\Reporter.class
+com\practiceseleniumproject\app\WelcomePage.class
+com\practiceseleniumproject\app\CheckOutPage.class
+com\practiceseleniumproject\app\Practiceselenium.class
+com\practiceseleniumproject\test\NavigationByLinksTest.class
